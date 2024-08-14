@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/ManjaroMix.qss</file>
+        <file>styles/style.css</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/copia.png</file>
+        <file>icons/pegar.png</file>
+        <file>icons/tijeras.png</file>
+        <file>icons/correcto.png</file>
+        <file>icons/question.png</file>
+        <file>icons/incorrecto.png</file>
+    </qresource>
+</RCC>
